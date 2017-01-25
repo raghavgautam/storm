@@ -1,4 +1,5 @@
 Master Branch:  
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cb11e712d8cc4a1689d1c036b0411680)](https://www.codacy.com/app/raghavgautam/storm?utm_source=github.com&utm_medium=referral&utm_content=raghavgautam/storm&utm_campaign=badger)
 [![Travis CI](https://travis-ci.org/apache/storm.svg?branch=master)](https://travis-ci.org/apache/storm)
 [![Maven Version](https://maven-badges.herokuapp.com/maven-central/org.apache.storm/storm-core/badge.svg)](http://search.maven.org/#search|gav|1|g:"org.apache.storm"%20AND%20a:"storm-core")
 
